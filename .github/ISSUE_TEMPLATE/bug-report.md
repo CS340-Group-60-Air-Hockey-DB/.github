@@ -1,9 +1,9 @@
 ---
 name: Bug Report
 about: Create a report to help us improve
-title: ''
+title: 
 labels: bug
-assignees: duellal, popcornMJ, aledanmey, bricetj, maya-venegas
+assignees:
 
 ---
 

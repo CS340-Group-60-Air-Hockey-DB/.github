@@ -1,8 +1,8 @@
 ---
 name: Validation
 about: Template for creating a validation issue.
-title: ''
-labels: ''
+title: 
+labels: 
 assignees: 
 
 ---
